@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_market_logo_24dp"
+        android:title="Market" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_calculator_logo_24dp"
+        android:title="Yield Calc" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_ship_yield_logo_24dp"
+        android:title="Ship Yield" />
+
+</menu>
